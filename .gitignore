@@ -1,3 +1,9 @@
+# VS folders
+.vs/
+Debug/
+x64/
+packages/
+
 # Prerequisites
 *.d
 
